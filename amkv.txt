@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/leet3591/losip/refs/heads/main/CFIP-US.txt@fq.kubanch.top
+https://raw.githubusercontent.com/leet3591/losip/refs/heads/main/HK-PRO.txt@pan.ooly.cc
+https://raw.githubusercontent.com/leet3591/losip/refs/heads/main/JP-PRO.txt@sb.167074.xyz
