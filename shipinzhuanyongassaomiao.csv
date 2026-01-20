@@ -1,3 +1,10 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-198.71.233.74,8443,443,TRUE,DE:Frankfurt,Europe,US,Ashburn-cf,252,6.95
-198.71.233.33,8443,443,TRUE,DE:Frankfurt,Europe,US,Ashburn-cf,303,6.91
+104.234.50.215,443,443,TRUE,US,Europe,US,Ashburn-cf,303,6.91
+104.234.50.12,2052,443,TRUE,US,Europe,US,Ashburn-cf,303,6.91
+104.234.50.12,8443,443,TRUE,US,Europe,US,Ashburn-cf,303,6.91
+104.234.50.215,443,443,TRUE,US,Europe,US,Ashburn-cf,303,6.91
+104.234.50.221,2053,443,TRUE,US,Europe,US,Ashburn-cf,303,6.91
+104.234.50.223,443,443,TRUE,US,Europe,US,Ashburn-cf,303,6.91
+46.8.78.122,8443,443,TRUE,HK,Europe,US,Ashburn-cf,303,6.91
+217.60.248.66,443,443,TRUE,HK,Europe,US,Ashburn-cf,303,6.91
+icook.tw,443,443,TRUE,US,Europe,US,Ashburn-cf,303,6.91
