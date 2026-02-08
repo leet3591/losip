@@ -1,5 +1,3 @@
 https://raw.githubusercontent.com/leet3591/losip/refs/heads/main/CFIP-US.txt@5858598.xyz
-https://raw.githubusercontent.com/leet3591/losip/refs/heads/main/HK-PRO.txt@hk.cmliu.cloudns.org.cdn.cloudflare.net
+https://raw.githubusercontent.com/leet3591/losip/refs/heads/main/HK-PRO.txt@154.3.34.23:4444
 https://raw.githubusercontent.com/leet3591/losip/refs/heads/main/JP-PRO.txt@101.36.105.226
-
-
